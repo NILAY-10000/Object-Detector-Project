@@ -18,3 +18,20 @@ body{
     padding-top: 10px;
     padding-bottom: 10px;
 }
+.back{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    width: 80px;
+}
+.status{
+    color: navy;
+    font-size: 20px;
+}
+.noofobj{
+    color: navy;
+    font-size: 20px;
+}
+canvas{
+    box-shadow: 20px,20px,20px,white;
+}
